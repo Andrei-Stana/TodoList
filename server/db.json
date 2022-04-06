@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "TypeScript lernen",
+      "done": true
+    }
+  ],
+  "profile": {
+    "name": "webt"
+  }
+}
